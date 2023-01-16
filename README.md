@@ -91,7 +91,8 @@ Communication
 - 회원가입 조건이 충족되지 않았을 때, 메세지 출력
 - 회원가입 성공 시 Login 페이지로 이동
 
-<p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548324-5ab31865-e902-4496-80c7-0991e305b873.png" width = "400px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/118649572/212618251-d1535e00-d296-4d61-8120-2b0f066302cb.gif" width = "400px"></p>
+
 
 ## 결제 페이지
 
