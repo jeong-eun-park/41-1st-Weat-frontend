@@ -83,7 +83,8 @@ Communication
 - 로그인 실패 시 안내문구 출력
 - 로그인 성공 시 Main 페이지로 이동
 
-<p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548326-1a6b55c4-302c-4f06-a6af-073600641af2.png" width = "400px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/118649572/212618770-8ee431ef-eed3-4d03-b638-72a0ea54ffe6.gif" width = "400px"></p>  
+
 
 ## 회원가입
 
