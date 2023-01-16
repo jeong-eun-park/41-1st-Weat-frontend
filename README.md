@@ -102,8 +102,7 @@ Communication
 - input에 입력되는 데이터 fetch로 POST하기
 - 결제하기 버튼 클릭시, orderId return
 
-<p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548332-5febd3dc-6d7f-4f6f-867a-987e5fb657db.png" width = "400px"><br><img src="https://user-images.githubusercontent.com/53294075/212548333-04bf373b-693e-48ee-be6f-da5a06487996.png" width = "400px"><br>
-</br>
+<p align="center"><img src="https://user-images.githubusercontent.com/118649572/212623375-0f095151-0958-48cd-a4ef-73a856fa204f.gif" width = "400px"><br>
 
 
 
