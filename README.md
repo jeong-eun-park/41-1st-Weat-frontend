@@ -66,26 +66,38 @@ Communication
     <summary>이미지 보기</summary>
     
 | 페이지 | 구현 내용 캡쳐 | 개발 담당 |
-| --- | --- | --- |
+
+</br>
+
+## 로그인
+
+- 로그인 시 이메일 및 비밀번호 조건을 통한 유효성 검사 구현
+- 로그인 시 HTTP 응답으로 담겨오는 JWT를 LocalStorage 저장 로직 구현
+- 로그인 실패 시 안내문구 출력
+- 로그인 성공 시 Main 페이지로 이동
+
+| 로그인 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548326-1a6b55c4-302c-4f06-a6af-073600641af2.png" width = "400px"></p> | 
+
+## 회원가입
+
+- 회원가입 시 인풋 데이터 입력 양식에 따라 오류 발생 시 알림 메세지 출력
+- 회원가입 조건이 충족되지 않았을 때, 메세지 출력
+- 회원가입 성공 시 Login 페이지로
+
+| 회원가입 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548324-5ab31865-e902-4496-80c7-0991e305b873.png" width = "400px"></p> | 
+
+## 결제 페이지
+
+- fetch를 통해 사용자정보 출력하기
+- 장바구니 데이터 출력하고 총합 계산하기
+- input에 입력되는 데이터 fetch로 POST하기
+- 결제하기 버튼 클릭시, orderId return
+
+| 주문/결제 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548332-5febd3dc-6d7f-4f6f-867a-987e5fb657db.png" width = "400px"><br><img src="https://user-images.githubusercontent.com/53294075/212548333-04bf373b-693e-48ee-be6f-da5a06487996.png" width = "400px"><br><img src="https://user-images.githubusercontent.com/53294075/212548335-02e004d0-d530-42c6-b8c0-5ed4e72d3473.png" width = "400px"></p> |
 </br>
 
 
 
-</br>
-
-| DB 설계<br>Migration | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/210484237-5bcd10e9-1c21-4408-aac1-2b9380980bf4.png" width = "600px"></p><br>[Detail LINK](https://github.com/wecode-bootcamp-korea/41-1st-Weat-backend/issues/6) | [BE] 박상우 |
-| 메인 화면<br>Nav Bar | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548316-74f42e68-56b7-42c3-b72d-5b022b7c9c96.png" width = "400px"></p> | [FE] 김지환 <br> [BE] 최민주 |
-| 메인 화면<br>판매량 top6 제품 노출 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548322-608ee008-0a92-4165-a8e8-e2c8a15f9a82.png" width = "400px"></p> | [FE] 김지환 <br> [BE] 최민주 |
-| 회원가입 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548324-5ab31865-e902-4496-80c7-0991e305b873.png" width = "400px"></p> | [FE] 박정은 <br> [BE] 최민주 |
-| 로그인 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548326-1a6b55c4-302c-4f06-a6af-073600641af2.png" width = "400px"></p> | [FE] 박정은 <br> [BE] 최민주 |
-| 제품 카테고리별 화면 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548328-b1e938f4-f2bf-42e7-8451-c0e809356128.png" width = "400px"></p> | [FE] 배경민 <br> [BE] 최민주 |
-| 상세페이지 및<br>제품별 리뷰 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548330-7ac6768c-6070-43c2-9bda-c898c4c6a4df.png" width = "400px"></p> | [FE] 배경민 <br> [BE] 박상우 |
-| 장바구니 추가<br>Modal 창 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548327-ecdbdeae-b8bd-45af-8404-77e41162d617.png" width = "200px"></p> | [FE] 배경민 <br> [BE] 최민주 |
-| 장바구니 조회/삭제 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548331-013f23e7-c8e1-4f88-b301-da0b8c25ca0c.png" width = "400px"></p> | [FE] 황선용 <br> [BE] 최민주 |
-| 주문/결제 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548332-5febd3dc-6d7f-4f6f-867a-987e5fb657db.png" width = "400px"><br><img src="https://user-images.githubusercontent.com/53294075/212548333-04bf373b-693e-48ee-be6f-da5a06487996.png" width = "400px"><br><img src="https://user-images.githubusercontent.com/53294075/212548335-02e004d0-d530-42c6-b8c0-5ed4e72d3473.png" width = "400px"></p> | [FE] 박정은 <br> [BE] 최민주 |
-</details>
-
-<br>
 
 ## 📑 API Documentation
 [Postman Link](https://documenter.getpostman.com/view/24998473/2s8Z76x9km)
