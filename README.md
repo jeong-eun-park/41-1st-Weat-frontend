@@ -62,7 +62,7 @@ Communication
 
 ## 🖼️ 구현 예시
 
-### <details>
+
 </br>
 
 
