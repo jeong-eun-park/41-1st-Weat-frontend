@@ -73,7 +73,7 @@ Communication
 - 로그인 실패 시 안내문구 출력
 - 로그인 성공 시 Main 페이지로 이동
 
-| 로그인 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548326-1a6b55c4-302c-4f06-a6af-073600641af2.png" width = "400px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548326-1a6b55c4-302c-4f06-a6af-073600641af2.png" width = "400px"></p>  
 
 ## 회원가입
 
@@ -81,7 +81,7 @@ Communication
 - 회원가입 조건이 충족되지 않았을 때, 메세지 출력
 - 회원가입 성공 시 Login 페이지로
 
-| 회원가입 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548324-5ab31865-e902-4496-80c7-0991e305b873.png" width = "400px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548324-5ab31865-e902-4496-80c7-0991e305b873.png" width = "400px"></p>  
 
 ## 결제 페이지
 
@@ -90,7 +90,7 @@ Communication
 - input에 입력되는 데이터 fetch로 POST하기
 - 결제하기 버튼 클릭시, orderId return
 
-| 주문/결제 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548332-5febd3dc-6d7f-4f6f-867a-987e5fb657db.png" width = "400px"><br><img src="https://user-images.githubusercontent.com/53294075/212548333-04bf373b-693e-48ee-be6f-da5a06487996.png" width = "400px"><br><img src="https://user-images.githubusercontent.com/53294075/212548335-02e004d0-d530-42c6-b8c0-5ed4e72d3473.png" width = "400px"></p> 
+<p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548332-5febd3dc-6d7f-4f6f-867a-987e5fb657db.png" width = "400px"><br><img src="https://user-images.githubusercontent.com/53294075/212548333-04bf373b-693e-48ee-be6f-da5a06487996.png" width = "400px"><br>
 </br>
 
 
