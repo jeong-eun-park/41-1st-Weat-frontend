@@ -79,7 +79,7 @@ Communication
 
 - 회원가입 시 인풋 데이터 입력 양식에 따라 오류 발생 시 알림 메세지 출력
 - 회원가입 조건이 충족되지 않았을 때, 메세지 출력
-- 회원가입 성공 시 Login 페이지로
+- 회원가입 성공 시 Login 페이지로 이동
 
 <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548324-5ab31865-e902-4496-80c7-0991e305b873.png" width = "400px"></p>  
 
