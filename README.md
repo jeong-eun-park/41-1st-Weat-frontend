@@ -23,9 +23,19 @@
 
 👑 [배경민 (Product Manager)](https://github.com/bjy6439), [김지환](https://github.com/jhjhjh01000), [황선용](https://github.com/syoee), [박정은](https://github.com/jeong-eun-park)
 
+| 박정은 | 로그인, 회원가입, 주문페이지 | F.E. |
+| ------ | ------------------------- | ---- |
+| 배경민 | 가테고리 페이지, 상세 페이지  | P.M. |
+| 황선용 | 장바구니, 결제확인 페이지     | F.E. |
+| 김지환 | 네브바, 메인페이지           | F.E. |
+
+
 ### Back-End
 
 [👑 최민주 (Project Manager)](https://github.com/Judy-Choi), [박상우](https://github.com/Jetkick)
+
+
+
 
 <br>
 
@@ -60,7 +70,7 @@ Communication
 
 <br>
 
-## 🖼️ 구현 예시
+## 🖼️ 구현 내용
 
 
 </br>
